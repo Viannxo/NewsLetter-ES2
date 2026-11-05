@@ -1,0 +1,15 @@
+{
+  "name": "newsflow-bdd",
+  "version": "1.0.0",
+  "description": "NewsFlow (Vértice) — BDD com Cucumber.js: US01 a US04",
+  "private": true,
+  "scripts": {
+    "test": "cucumber-js",
+    "test:dry": "cucumber-js --dry-run"
+  },
+  "author": "Eduardo Vianna Meira (844387) e Vitor Alexandre (803371)",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.3.0"
+  }
+}
